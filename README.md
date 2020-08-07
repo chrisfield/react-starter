@@ -1,0 +1,1 @@
+# React starter app with webpack, typescript, eslint & jest
